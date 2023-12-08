@@ -49,11 +49,11 @@
     },
     {
       "id": 4,
-      "name": "RGB",
-      "description": "Can make color party.",
-      "price": 92,
+      "name": "strawberry",
+      "description": "red fruit",
+      "price": 30,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      "photo_url": "https://cdn11.bigcommerce.com/s-i7i23daso6/images/stencil/1280x1280/products/10739/15772/Strawberry_Florence_Late_0005016__40227.1623343614.jpg?c=1"
     },
     {
       "id": 5,
