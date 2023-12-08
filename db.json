@@ -34,10 +34,10 @@
     {
       "id": 2,
       "name": "orange",
-      "description": "hssn",
-      "price": 180,
+      "description": "nice fruit",
+      "price": 40,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+      "photo_url": "https://fru-leg.ro/wp-content/uploads/2018/12/portocale.jpg"
     },
     {
       "id": 3,
