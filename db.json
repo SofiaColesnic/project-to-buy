@@ -25,11 +25,11 @@
   "products": [
     {
       "id": 1,
-      "name": "pomelo",
-      "description": "delicious fruit",
-      "price": 49,
+      "name": "nike Giannis Immortality",
+      "description": "Basketball Shoes",
+      "price": 99,
       "author_id": 1,
-      "photo_url": "https://m.media-amazon.com/images/I/813rboAukdL._AC_UF1000,1000_QL80_.jpg"
+      "photo_url": "https://www.sportsdirect.com/images/products/15121708_l.jpg"
     },
     {
       "id": 2,
