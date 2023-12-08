@@ -25,11 +25,11 @@
   "products": [
     {
       "id": 1,
-      "name": "kihon",
-      "description": "tehnica of karate",
+      "name": "pomelo",
+      "description": "delicious fruit",
       "price": 49,
       "author_id": 1,
-      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZKdfs6l5JUrAPIg2jfLpLyF0HpwiqQspGw&usqp=CAU"
+      "photo_url": "https://www.jiomart.com/images/product/original/599990657/pomelo-pink-premium-indian-1-pc-approx-1-2-kg-1-75-kg-product-images-o599990657-p590860311-0-202207282046.jpg?im=Resize=(1000,1000)"
     },
     {
       "id": 2,
