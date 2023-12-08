@@ -25,11 +25,11 @@
   "products": [
     {
       "id": 1,
-      "name": "LED display",
-      "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-      "price": 92,
+      "name": "kihon",
+      "description": "tehnica of karate",
+      "price": 49,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZKdfs6l5JUrAPIg2jfLpLyF0HpwiqQspGw&usqp=CAU"
     },
     {
       "id": 2,
