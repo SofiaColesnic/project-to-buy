@@ -49,11 +49,11 @@
     },
     {
       "id": 4,
-      "name": "strawberry",
-      "description": "red fruit",
-      "price": 30,
+      "name": "Nike React Vision",
+      "description": "Men Shoe",
+      "price": 159,
       "author_id": 1,
-      "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-11/strawberries-2-te-221104-dcb446.jpg"
+      "photo_url": "https://www.sportsdirect.com/images/products/12887103_l.jpg"
     },
     {
       "id": 5,
