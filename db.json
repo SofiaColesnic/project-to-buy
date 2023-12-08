@@ -25,7 +25,7 @@
   "products": [
     {
       "id": 1,
-      "name": "nike Giannis Immortality",
+      "name": "Nike Giannis Immortality",
       "description": "Basketball Shoes",
       "price": 99,
       "author_id": 1,
@@ -33,7 +33,7 @@
     },
     {
       "id": 2,
-      "name": "nike Blazer Mid 77 ",
+      "name": "Nike Blazer Mid 77 ",
       "description": "Hi Top Trainers",
       "price": 45,
       "author_id": 3,
@@ -41,11 +41,11 @@
     },
     {
       "id": 3,
-      "name": "grape",
-      "description": "violet fruit",
-      "price": 300,
+      "name": "Nike Zoom Air Fire",
+      "description": "Women Shoes",
+      "price": 96,
       "author_id": 2,
-      "photo_url": "https://www.goodnet.org/photos/620x0/38531_hd.jpg"
+      "photo_url": "https://www.sportsdirect.com/images/products/27200702_l.jpg"
     },
     {
       "id": 4,
